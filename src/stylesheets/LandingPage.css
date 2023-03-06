@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+.landing{
+    margin-top: 250px;
+    text-align: center;
+    font-family: 'Mynerve', cursive;
+}
+
+.title{
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+button{
+    background: none;
+    border: none;
+    font-size: 25px;
+    font-family: 'Mynerve', cursive;
+}
+
+button:hover{
+    color: #C70039;
+    cursor: pointer;
+}
